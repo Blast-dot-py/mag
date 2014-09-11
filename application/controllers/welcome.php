@@ -9,3 +9,6 @@ class Welcome extends CI_Controller {
 	}
 }
 
+/*
+Зміни в тестовому контролері
+*/
